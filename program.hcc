@@ -1,6 +1,9 @@
 num a 21;
 num b 32;
 
-funct main { num g } ouput g; 
+funct main { string g } ouput string g; start; end;
+funct start { } input string name; output string name; end;
+
+main string a " Hello! ";
 
 restart;
