@@ -1,0 +1,6 @@
+num a 21;
+num b 32;
+
+funct main {num g} ouput g; 
+
+restart;
