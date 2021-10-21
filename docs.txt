@@ -8,8 +8,8 @@ params definition: {, num, name, }; {, string, name, }; {, numarray, name, }; {,
 
 return function: return, variable definition or use or function definition with return;
 
-output to console/terminal: output, string; output, num;
+output to console/terminal: output, string, name; output, num, name;
 
-input from console/terminal: input, string; input, num;
+input from console/terminal: input, string, name; input, num, name;
 
 restart the program: restart;
