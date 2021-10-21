@@ -1,6 +1,6 @@
 function calling: funct name, options/params;
 
-varable definition: num, name, value; string, name, ", value, "; numarray, name, [num, num]; stringarray, name, [string, string];
+varable definition: num, name, value; string, name, ", value, "; numarray, name, [num, num]; stringarray, name, [string, string]; note: does not have to have assigned value.
 
 function definition: funct, name, params object, code, end;
 
